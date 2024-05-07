@@ -1,0 +1,107 @@
+﻿@model WebApi.Models.SMSKelulusanCutiModel
+
+@{
+    ViewBag.Title = "SISTEM MAKLUMAT SUMBER MANUSIA (SMSM) UTeM";
+}
+
+
+<h3>SISTEM MAKLUMAT SUMBER MANUSIA (SMSM) UTeM</h3>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>@ViewBag.Message</h4>
+
+
+        <strong>Nama</strong> : @ViewData["Nama"] <br />
+        <strong>TarikhDari</strong> : @ViewData["TarikhDari"]<br />
+        <strong>JumlahHari</strong> : @ViewData["JumlahHari"]<br />
+        <strong>SebabCuti</strong> : @ViewData["SebabCuti"]<br />
+        <br />
+        <br />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.SecureId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.SecureId,
+                   new { id = "SecureId", Value = @ViewData["SecureId"] })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.Staffno, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.Staffno,
+                   new { id = "Staffno", Value = @ViewData["Staffno"] })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.Nama, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.Nama,
+                new { id = "Nama", Value = @ViewData["Nama"] })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.TarikhDari, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.TarikhDari,
+                new { id = "TarikhDari", Value = @ViewData["TarikhDari"] })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.TarikhHingga, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TarikhHingga, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TarikhHingga, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.JumlahHari, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.JumlahHari,
+                new { id = "JumlahHari", Value = @ViewData["JumlahHari"] })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.SebabCuti, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.SebabCuti,
+                new { id = "SebabCuti", Value = @ViewData["SebabCuti"] })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.StatusCuti, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.HiddenFor(model => model.StatusCuti,
+                new { id = "StatusCuti", Value = "Sokong" })
+            </div>
+        </div>
+
+        <div class="form-group" style="display: none">
+            @Html.LabelFor(model => model.Nota, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nota, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nota, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Sokong" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    <a href="http://www.utem.edu.my">UTeM website</a>
+</div>

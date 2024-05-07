@@ -1,0 +1,344 @@
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\obj\Debug\SMKB_Web_Portal.Resources.resources
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.GenerateResource.Cache
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SqlServerTypes\x64\msvcr120.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SqlServerTypes\x86\msvcr120.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\csc.exe
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\vbc.exe
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\VBCSCompiler.exe
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SMKB Web Portal.dll.config
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SMKB Web Portal.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\SMKB Web Portal.pdb
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\WebForms_Basic.xml
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\AjaxControlToolkit.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Antlr3.Runtime.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\AspNet.ScriptManager.bootstrap.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\clsMail.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\EntityFramework.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\EntityFramework.SqlServer.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.Security.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.Security.Google.dll
+D:\New folder\Working Folder\SMKB Web Portal\SMKB Web Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New folder\Working Fold
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x64\msvcr120.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x86\msvcr120.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\csc.exe
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\System.Collections.Immutable.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\System.Reflection.Metadata.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\vbc.exe
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\VBCSCompiler.exe
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\VBCSCompiler.exe.config
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SMKB Web Portal.dll.config
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SMKB Web Portal.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SMKB Web Portal.pdb
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\WebForms_Basic.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\AjaxControlToolkit.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Antlr3.Runtime.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\AspNet.ScriptManager.bootstrap.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\BouncyCastle.Crypto.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\clsMail.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.SqlServer.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\itextsharp.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Core.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Cookies.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Facebook.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Google.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.OAuth.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Twitter.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.Common.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.DataVisualization.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.Design.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.WebDesign.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.WebForms.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.WinForms.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ScriptManager.MSAjax.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ScriptManager.WebForms.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.SqlServer.Types.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Web.Infrastructure.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.Bson.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Owin.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Buffers.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Memory.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Net.Http.Formatting.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Threading.Tasks.Extensions.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.WebHost.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Optimization.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Providers.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\WebGrease.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\itextsharp.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Cookies.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Facebook.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Google.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.OAuth.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Twitter.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.Bson.pdb
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.Bson.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Buffers.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Memory.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Net.Http.Formatting.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Threading.Tasks.Extensions.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.WebHost.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Optimization.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Antlr3.Runtime.pdb
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.SqlServer.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Core.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Providers.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.AssemblyReference.cache
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB_Web_Portal.Resources.resources
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.GenerateResource.cache
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.CoreCompileInputs.cache
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\WebForms_Basic.xml
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.pdb
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.Shell.Interop.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.OLE.Interop.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.MSXML.dll
+\\devmis12.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.CopyComplete
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x64\msvcr120.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x86\msvcr120.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\csc.exe
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.CSharp.Core.targets
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\System.Collections.Immutable.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\System.Reflection.Metadata.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\vbc.exe
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\VBCSCompiler.exe
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\roslyn\VBCSCompiler.exe.config
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SMKB Web Portal.dll.config
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SMKB Web Portal.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\SMKB Web Portal.pdb
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\WebForms_Basic.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\AjaxControlToolkit.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Antlr3.Runtime.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\AspNet.ScriptManager.bootstrap.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\BouncyCastle.Crypto.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\clsMail.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.SqlServer.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\itextsharp.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.FriendlyUrls.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Core.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Owin.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Cookies.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Facebook.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Google.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.OAuth.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Twitter.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.Common.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.DataVisualization.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.Design.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.WebDesign.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.WebForms.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ReportViewer.WinForms.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ScriptManager.MSAjax.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.ScriptManager.WebForms.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.SqlServer.Types.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Web.Infrastructure.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.Bson.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Owin.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Buffers.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Memory.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Net.Http.Formatting.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Threading.Tasks.Extensions.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.WebHost.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Optimization.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Providers.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\WebGrease.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.Shell.Interop.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.OLE.Interop.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.MSXML.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\itextsharp.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Cookies.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Facebook.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Google.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.OAuth.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Security.Twitter.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.Bson.pdb
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Newtonsoft.Json.Bson.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Buffers.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Memory.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Net.Http.Formatting.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Runtime.CompilerServices.Unsafe.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Threading.Tasks.Extensions.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Http.WebHost.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Optimization.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Antlr3.Runtime.pdb
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.FriendlyUrls.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\EntityFramework.SqlServer.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Core.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.Owin.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\System.Web.Providers.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.AssemblyReference.cache
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB_Web_Portal.Resources.resources
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.GenerateResource.cache
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.CoreCompileInputs.cache
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.vbproj.CopyComplete
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.dll
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\WebForms_Basic.xml
+\\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\obj\Debug\SMKB Web Portal.pdb

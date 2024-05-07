@@ -1,0 +1,6 @@
+﻿<%@ Master Language="VB"MasterPageFile="~/Site_Emel.Master"  AutoEventWireup="false" CodeBehind="NestedPageEmail.master.vb" Inherits="SMKB_Web_Portal.NestedPageEmail" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <!DOCTYPE html>
+       <asp:ContentPlaceHolder runat="server" ID="FormContents">
+    </asp:ContentPlaceHolder>
+</asp:Content>

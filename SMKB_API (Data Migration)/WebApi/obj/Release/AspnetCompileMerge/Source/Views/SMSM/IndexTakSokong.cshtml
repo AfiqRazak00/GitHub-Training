@@ -1,0 +1,48 @@
+﻿@model WebApi.Models.SMSKelulusanCutiModel
+
+@{
+    ViewBag.Title = "SISTEM MAKLUMAT SUMBER MANUSIA (SMSM) UTeM";
+}
+
+
+<h3>SISTEM MAKLUMAT SUMBER MANUSIA (SMSM) UTeM</h3>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>@ViewBag.Message</h4>
+
+    <strong>Nama</strong> : @ViewData["Nama"] <br />
+    <strong>Tarikh</strong> : @ViewData["TarikhDari"]<br />
+    <strong>Jumlah Hari</strong> : @ViewData["JumlahHari"]<br />
+    <strong>Sebab Cuti</strong> : @ViewData["SebabCuti"]<br />
+    <strong>Sebab Tidak Sokong</strong> : @ViewData["Nota"]<br />
+    <strong>Status Cuti</strong> : Tidak Sokong<br />
+
+    <br />
+    <br />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <strong>Status : Berjaya kemaskini permohonan cuti</strong>
+
+
+
+</div>
+}
+
+<div>
+    <a href="http://www.utem.edu.my">UTeM website</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+

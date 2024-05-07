@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="vb" CodeBehind="PertanyaanAC_WS.asmx.vb" Class="SMKB_Web_Portal.PertanyaanAC_WS" %>

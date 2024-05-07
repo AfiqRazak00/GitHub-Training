@@ -1,0 +1,22 @@
+﻿
+<h3>SISTEM MAKLUMAT SUMBER MANUSIA (SMSM) UTeM</h3>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Pengesahan Kelulusan Cuti</h4>
+
+        <br />
+        <br />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <strong>@ViewBag.Message</strong>
+
+    </div>
+}
+
+<div>
+    <a href="http://www.utem.edu.my">UTeM website</a>
+</div>
+

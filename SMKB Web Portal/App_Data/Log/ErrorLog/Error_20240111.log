@@ -1,0 +1,2 @@
+1/11/2024 9:13:27 AM fInsertCommand - Err: Violation of PRIMARY KEY constraint 'PK_SMKB_UModul'. Cannot insert duplicate key in object 'dbo.SMKB_Modul'. The duplicate key value is (100).
+The statement has been terminated.

@@ -1,0 +1,2 @@
+4/4/2024 12:38:41 PM fInsertCommand - Err: Cannot insert the value NULL into column 'Jenis_Trans', table 'DbKewanganV4.dbo.SMKB_Gaji_Kod_Trans'; column does not allow nulls. INSERT fails.
+The statement has been terminated.

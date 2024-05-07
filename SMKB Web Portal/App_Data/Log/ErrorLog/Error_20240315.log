@@ -1,0 +1,5 @@
+3/15/2024 3:43:57 PM Page_Load(), Err - System.InvalidOperationException: Showing a modal dialog box or form when the application is not running in UserInteractive mode is not a valid operation. Specify the ServiceNotification or DefaultDesktopOnly style to display a notification from a service application.
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at Microsoft.VisualBasic.Interaction.MsgBox(Object Prompt, MsgBoxStyle Buttons, Object Title)
+   at SMKB_Web_Portal.dbSMKB.NewGetDataPB(String queryString, SqlParameter[] param, SqlConnection conn, String db) in \\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\Database\dbSMKB.vb:line 52
+   at SMKB_Web_Portal.index.Page_Load(Object sender, EventArgs e) in \\devmis.utem.edu.my\SMKBNet\SMKB Web Portal\index.aspx.vb:line 127

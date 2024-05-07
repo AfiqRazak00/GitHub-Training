@@ -1,0 +1,2 @@
+4/1/2024 9:42:06 AM fInsertCommand - Err: Violation of PRIMARY KEY constraint 'PK_SMKB_Tuntutan_Dftr_Kenderaan'. Cannot insert duplicate key in object 'dbo.SMKB_Tuntutan_Dftr_Kenderaan'. The duplicate key value is (abc123).
+The statement has been terminated.
